@@ -3,7 +3,7 @@
 <h2 align="center">💗 Hi there, I'm a math-loving coder exploring the world of tech!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Python+learner+%F0%9F%90%8D;Math+enthusiast+%E2%9C%A8;Future+Machine+Learning+Engineer+%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Python+learner+%F0%9F%90%8D;Math+enthusiast+%E2%9C%A8;Future+Data Scientist+%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
